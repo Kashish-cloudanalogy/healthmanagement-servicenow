@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="Healthcare Management Dashboard">0183e565b3c04a2092cd7ba56063cde8</dashboard>
+        <name>Facility &amp; Finance</name>
+        <order>2</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 04:48:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8a5745af85f4630bf72aa871b8e3c17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facility &amp; Finance</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+        <sys_update_name>par_dashboard_tab_c8a5745af85f4630bf72aa871b8e3c17</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 04:48:18</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

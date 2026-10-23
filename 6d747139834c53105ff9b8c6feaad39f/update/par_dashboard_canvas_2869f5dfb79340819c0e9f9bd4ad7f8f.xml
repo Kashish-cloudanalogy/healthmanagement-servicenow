@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
     <par_dashboard_canvas action="INSERT_OR_UPDATE">
         <dashboard display_value="Healthcare Management Dashboard">0183e565b3c04a2092cd7ba56063cde8</dashboard>
-        <dashboard_tab display_value="">c8a5745af85f4630bf72aa871b8e3c17</dashboard_tab>
+        <dashboard_tab display_value="Facility &amp; Finance">c8a5745af85f4630bf72aa871b8e3c17</dashboard_tab>
         <layout/>
         <sys_class_name>par_dashboard_canvas</sys_class_name>
         <sys_created_by>admin</sys_created_by>

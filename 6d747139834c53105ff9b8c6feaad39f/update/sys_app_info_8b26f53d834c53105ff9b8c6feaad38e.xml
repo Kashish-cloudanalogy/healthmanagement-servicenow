@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_info">
+    <sys_app_info action="INSERT_OR_UPDATE">
+        <properties>{"generated_using_ba":"true"}</properties>
+        <sys_class_name>sys_app_info</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 04:29:07</sys_created_on>
+        <sys_id>8b26f53d834c53105ff9b8c6feaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+        <sys_update_name>sys_app_info_8b26f53d834c53105ff9b8c6feaad38e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 04:29:07</sys_updated_on>
+    </sys_app_info>
+</record_update>

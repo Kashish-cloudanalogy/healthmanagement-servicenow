@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Personal Information" section_id="a38dfdded8874da4a94fd651d204da90" sys_domain="global" table="x_2212898_health_0_nurse" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:32</sys_created_on>
+            <sys_id>06f8856997864909b62e074e8dfdc95d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:32</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:32</sys_created_on>
+            <sys_id>9a513a52be1b47ecac680e1347e864df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:32</sys_created_on>
+            <sys_id>98c44c4642df44fd8d39c3fe22bff909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:32</sys_created_on>
+            <sys_id>231f2ae3f7e74000b644a342ba024f3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:32</sys_created_on>
+            <sys_id>04b8f226fc074827a656c9eedfe9d6c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:33</sys_created_on>
+            <sys_id>197533de4277420fa1d35a58a486fd04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:33</sys_created_on>
+            <sys_id>8c3908eb9a844084ac8c2fa137746731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Personal Information</caption>
+            <header>false</header>
+            <name>x_2212898_health_0_nurse</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 04:28:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a38dfdded8874da4a94fd651d204da90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2212898_health_0_nurse</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+            <sys_update_name>sys_ui_section_a38dfdded8874da4a94fd651d204da90</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 04:28:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="0e1f99fad6bf41eba24c4a4c022d9f89" extends="task" label="Appointment" name="x_2212898_health_0_appointment" type="collection">
+        <element label="Doctor" mandatory="true" name="doctor" reference="x_2212898_health_0_doctor" type="reference"/>
+        <element label="Patient" mandatory="true" name="patient_id" reference="x_2212898_health_0_patient" type="reference"/>
+        <element label="Department" mandatory="true" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pediatrics" sequence="3" value="pediatrics"/>
+                <element inactive_on_update="false" label="Cardiology" sequence="2" value="cardiology"/>
+                <element inactive_on_update="false" label="General Medicine" sequence="1" value="general_medicine"/>
+            </choice>
+        </element>
+        <element label="Appointment Date" mandatory="true" name="appointment_date" type="glide_date_time"/>
+        <element label="Appointment Status" name="appointment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
+                <element inactive_on_update="false" label="Scheduled" sequence="1" value="scheduled"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="2" value="confirmed"/>
+            </choice>
+        </element>
+    </element>
+</database>

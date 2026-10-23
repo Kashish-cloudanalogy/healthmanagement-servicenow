@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="323872a98b9747e0be1e1cddad1e1dca" label="Doctor" name="x_2212898_health_0_doctor" type="collection">
+        <element label="Office Location" mandatory="true" name="office_location" type="string"/>
+        <element label="Last Name" mandatory="true" name="last_name" type="string"/>
+        <element label="Specialization" mandatory="true" name="specialization" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cardiology" sequence="2" value="cardiology"/>
+                <element inactive_on_update="false" label="Pediatrics" sequence="3" value="pediatrics"/>
+                <element inactive_on_update="false" label="General Medicine" sequence="1" value="general_medicine"/>
+            </choice>
+        </element>
+        <element label="Email" mandatory="true" name="email" type="email"/>
+        <element label="Contact Number" mandatory="true" name="contact_number" type="ph_number"/>
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" label="Doctor ID" name="number" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="First Name" mandatory="true" name="first_name" type="string"/>
+    </element>
+</database>

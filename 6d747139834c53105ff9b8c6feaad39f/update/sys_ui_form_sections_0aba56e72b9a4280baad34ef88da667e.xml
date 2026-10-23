@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0aba56e72b9a4280baad34ef88da667e" sys_domain="global" table="x_2212898_health_0_nurse" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4281eaa83f4437d8bd70fc5eccfd8f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_nurse" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">0aba56e72b9a4280baad34ef88da667e</sys_ui_form>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">a38dfdded8874da4a94fd651d204da90</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1044a2fd3029497bbecaa581dcb55b9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_nurse" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">0aba56e72b9a4280baad34ef88da667e</sys_ui_form>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">db7766a52cb14f95b59954a4467bb1e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2454b87b1534c3bb652244aab0ce37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_nurse" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">0aba56e72b9a4280baad34ef88da667e</sys_ui_form>
+            <sys_ui_section caption="Activity/Notes" display_value="Activity/Notes" name="x_2212898_health_0_nurse" sys_domain="global" view="Default view">f713f59a7e984ede963c164fd04ce3c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2212898_health_0_nurse</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 04:28:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0aba56e72b9a4280baad34ef88da667e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2212898_health_0_nurse</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0aba56e72b9a4280baad34ef88da667e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 04:28:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Contact Information" section_id="287be58d2db94964b9353f4b56de9e56" sys_domain="global" table="x_2212898_health_0_patient" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:28</sys_created_on>
+            <sys_id>e3029b3c1b5946d9a6c21da237a17a71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="x_2212898_health_0_patient" sys_domain="global" view="Default view">287be58d2db94964b9353f4b56de9e56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:28</sys_created_on>
+            <sys_id>44cd8f0566d943a58aeae0897fe16c3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="x_2212898_health_0_patient" sys_domain="global" view="Default view">287be58d2db94964b9353f4b56de9e56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:28</sys_created_on>
+            <sys_id>82d73d3941f841029ee442d790b21b3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="x_2212898_health_0_patient" sys_domain="global" view="Default view">287be58d2db94964b9353f4b56de9e56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Contact Information</caption>
+            <header>false</header>
+            <name>x_2212898_health_0_patient</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 04:28:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>287be58d2db94964b9353f4b56de9e56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2212898_health_0_patient</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+            <sys_update_name>sys_ui_section_287be58d2db94964b9353f4b56de9e56</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 04:28:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

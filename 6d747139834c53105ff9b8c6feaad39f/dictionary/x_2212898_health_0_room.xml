@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="3b2430e729dd4110a7db953c28e5c406" label="Room" name="x_2212898_health_0_room" type="collection">
+        <element label="Bed Count" mandatory="true" name="bed_count" type="integer"/>
+        <element label="Room Number" mandatory="true" name="room_number" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" label="Room ID" name="number" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="Occupied Beds" mandatory="true" name="occupied_beds" type="integer"/>
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+        <element label="Ward" mandatory="true" name="ward_id" reference="x_2212898_health_0_ward" type="reference"/>
+        <index name="index">
+            <element name="ward_id"/>
+        </index>
+    </element>
+</database>

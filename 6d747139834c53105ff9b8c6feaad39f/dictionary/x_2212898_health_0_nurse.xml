@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="a009735ca2fe4bdcb9277c5aa5cee225" label="Nurse" name="x_2212898_health_0_nurse" type="collection">
+        <element label="Contact Number" mandatory="true" name="contact_number" type="ph_number"/>
+        <element label="First Name" mandatory="true" name="first_name" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" label="Nurse ID" name="number" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+        <element label="Email" mandatory="true" name="email" type="email"/>
+        <element label="Last Name" mandatory="true" name="last_name" type="string"/>
+        <element label="Department" mandatory="true" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="General Medicine" sequence="1" value="general_medicine"/>
+                <element inactive_on_update="false" label="Cardiology" sequence="2" value="cardiology"/>
+                <element inactive_on_update="false" label="Pediatrics" sequence="3" value="pediatrics"/>
+            </choice>
+        </element>
+    </element>
+</database>

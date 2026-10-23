@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d02d256721984fb7b0f80290b3c757af" sys_domain="global" table="x_2212898_health_0_doctor" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6239b39efadc4971b3f825164429925b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_doctor" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">d02d256721984fb7b0f80290b3c757af</sys_ui_form>
+            <sys_ui_section caption="Personal Information" display_value="Personal Information" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">77b5a8d3fb854346bc76d9b9d63480e8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fd42061c00244c8930d828bb740fc26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_doctor" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">d02d256721984fb7b0f80290b3c757af</sys_ui_form>
+            <sys_ui_section caption="Contact Information" display_value="Contact Information" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">d18e1f8333dc497fb984f0f3f4fadf30</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f0b928f21f54668ad4c085e645dc8f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_doctor" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">d02d256721984fb7b0f80290b3c757af</sys_ui_form>
+            <sys_ui_section caption="Professional Information" display_value="Professional Information" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">2b13e1784fd64619910d9767cb6edc64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5227088a6867425689c67dc6ea89ea23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2212898_health_0_doctor" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">d02d256721984fb7b0f80290b3c757af</sys_ui_form>
+            <sys_ui_section caption="Activity/Notes" display_value="Activity/Notes" name="x_2212898_health_0_doctor" sys_domain="global" view="Default view">749262a9dc374803bdba1a6bc9f5f52e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2212898_health_0_doctor</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 04:28:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d02d256721984fb7b0f80290b3c757af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2212898_health_0_doctor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d02d256721984fb7b0f80290b3c757af</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 04:28:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

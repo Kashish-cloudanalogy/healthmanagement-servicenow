@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Ward Details" section_id="eb94b4c2117c4d12aa1a4497d4f607fa" sys_domain="global" table="x_2212898_health_0_ward" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>7601e6c0c6f34155a3c0bced58280386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>61900247019b4bab85dcec938a08b3fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ward_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>c8161f42c9694e14b8eef0bd6c01f154</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capacity</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>259cfcf8984147aaaad4cd1b88e35fbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>46330c825b334e21966cbc7f1736b56b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>36c877546b2745f6a36d7de45985f5b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>occupancy</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>5637f8f654fb441988fbe1c3b2e97ca8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 05:22:35</sys_created_on>
+            <sys_id>83950cd559e74092910a852fc0fa9e1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Ward Details" display_value="Ward Details" name="x_2212898_health_0_ward" sys_domain="global" view="Default view">eb94b4c2117c4d12aa1a4497d4f607fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 05:22:35</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Ward Details</caption>
+            <header>false</header>
+            <name>x_2212898_health_0_ward</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-21 04:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb94b4c2117c4d12aa1a4497d4f607fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2212898_health_0_ward</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+            <sys_update_name>sys_ui_section_eb94b4c2117c4d12aa1a4497d4f607fa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-21 04:28:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

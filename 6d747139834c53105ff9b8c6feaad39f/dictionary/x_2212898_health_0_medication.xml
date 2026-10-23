@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="72fa5224abbf45a9bd70134a98737fbe" extends="task" label="Medication" name="x_2212898_health_0_medication" type="collection">
+        <element label="End Date" mandatory="true" name="end_date" type="glide_date"/>
+        <element label="Prescribing Doctor" mandatory="true" name="prescribing_doctor" reference="x_2212898_health_0_doctor" type="reference"/>
+        <element label="Start Date" mandatory="true" name="start_date" type="glide_date"/>
+        <element label="Frequency" mandatory="true" name="frequency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Thrice Daily" sequence="3" value="thrice_daily"/>
+                <element inactive_on_update="false" label="Twice Daily" sequence="2" value="twice_daily"/>
+                <element inactive_on_update="false" label="Once Daily" sequence="1" value="once_daily"/>
+            </choice>
+        </element>
+        <element label="Dosage" mandatory="true" max_length="1000" name="dosage" type="string"/>
+        <element label="Medication Name" mandatory="true" name="medication_name" type="string"/>
+        <element label="Patient" mandatory="true" name="patient_id" reference="x_2212898_health_0_patient" type="reference"/>
+    </element>
+</database>

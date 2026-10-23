@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description>Healthcare Management application navigator</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 08:03:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dde22695f9f84f0f8f644153a9b17875</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Healthcare Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+        <sys_update_name>sys_app_application_dde22695f9f84f0f8f644153a9b17875</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 08:03:53</sys_updated_on>
+        <title>Healthcare Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

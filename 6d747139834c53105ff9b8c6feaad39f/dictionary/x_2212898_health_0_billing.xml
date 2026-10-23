@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="20dc5f1244e3431eb0c39a7222fb4032" extends="task" label="Billing" name="x_2212898_health_0_billing" type="collection">
+        <element label="Appointment" mandatory="true" name="appointment_id" reference="x_2212898_health_0_appointment" type="reference"/>
+        <element label="Billing Status" mandatory="true" name="billing_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Paid" sequence="2" value="paid"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Overdue" sequence="3" value="overdue"/>
+            </choice>
+        </element>
+        <element label="Total Amount" mandatory="true" name="total_amount" type="currency"/>
+        <element label="Patient" mandatory="true" name="patient_id" reference="x_2212898_health_0_patient" type="reference"/>
+    </element>
+</database>

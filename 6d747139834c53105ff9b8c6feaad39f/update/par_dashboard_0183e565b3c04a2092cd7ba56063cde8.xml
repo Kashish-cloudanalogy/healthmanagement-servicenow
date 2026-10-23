@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_dashboard/>
+        <certified>false</certified>
+        <description>Comprehensive dashboard for monitoring healthcare operations, clinical activities, and facility management.</description>
+        <experience/>
+        <grid>48</grid>
+        <name>Healthcare Management Dashboard</name>
+        <ready_to_migrate>Not Applicable</ready_to_migrate>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 04:48:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0183e565b3c04a2092cd7ba56063cde8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Healthcare Management Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+        <sys_update_name>par_dashboard_0183e565b3c04a2092cd7ba56063cde8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 05:04:55</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>

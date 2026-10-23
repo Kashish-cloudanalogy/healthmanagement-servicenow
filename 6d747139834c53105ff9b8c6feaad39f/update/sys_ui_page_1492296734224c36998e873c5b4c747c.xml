@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>Healthcare Management Portal - dashboard and navigation hub</description>
+        <direct>true</direct>
+        <endpoint>x_2212898_health_0_portal.do</endpoint>
+        <html><![CDATA[
+<!-- @fluent-import-html WARNING: This file was imported from the output of a static build. Modifications of any kind are likely to result in unintended behavior. In most cases, you should edit the source file of the HTML imported below. If you are absolutely certain you want to take control of this HTML, you can remove this comment to prevent the SDK from regenerating it. However, you will then be responsible for the management of this HTML in your Fluent file. -->
+<html class="-polaris">
+  <head>
+    <title>Healthcare Management Portal</title>
+    <!-- @sdk:now-ux-globals -->
+    <!-- Resolved from sdk:now-ux-globals tag at NowSDK build time to support earlier Glide releases -->
+    <script>window.NOW = {};
+window.NOW.user = {};
+window.NOW.batch_glide_ajax_requests = false;
+window.NOW.isUsingPolaris = true;
+window.NOW.exclude_dark_theme = "false";
+window.g_ck = "$[gs.getSession().getSessionToken() || gs.getSessionToken()]";</script>
+    <!-- Include ServiceNow's required scripts -->
+    <g:requires name="scripts/doctype/functions_bootstrap14.js"></g:requires>
+    <g:requires name="scripts/lib/prototype.js"></g:requires>
+    <g:requires name="scripts/classes/ajax/GlideURL.js"></g:requires>
+    <g:requires name="scripts/doctype/CustomEventManager.js"></g:requires>
+    <g:requires name="scripts/classes/ajax/GlideAjax.js"></g:requires>
+    <g:requires name="scripts/classes/GlideUser.js"></g:requires>
+    <g2:client_script type="user"></g2:client_script>
+    <link rel="preload" href="/uxasset/set-cache-buster/$[UxFrameworkScriptables.getFlushTimestamp()].js" as="script"></link>
+    <g:requires name="scripts/polaris_theme_refresh_observer.js"></g:requires>
+    <link data-source-id="glide-theme" id="polarisberg_theme_variables" rel="stylesheet" href="/$uxappimmutables.do?sysparm_request_type=ux_theme$[AMP]sysparm_app_sys_id=c86a62e2c7022010099a308dc7c26022$[AMP]uxpcb=$[sn_ui.PolarisUI.getThemeVariableCssCacheKey()]"></link>
+    <script type="module" src="/uxasset/externals/@devsnc/library-uxf/index.jsdbx"></script>
+    <script type="text/javascript">
+    (function () {
+    var testWorks = (function () {
+        try {
+        var result = Array.from(new Set([1, 2]));
+        return (
+            Array.isArray(result) $[AMP]$[AMP] result.length === 2 $[AMP]$[AMP] result[0] === 1
+        );
+        } catch (e) {
+        return false;
+        }
+    })();
+    if (testWorks) return;
+    var originalArrayFrom = Array.from;
+    function specArrayFrom(arrayLike, mapFn, thisArg) {
+        if (arrayLike == null)
+        throw new TypeError(
+            "Array.from requires an array-like or iterable object"
+        );
+        var C = this;
+        if (typeof C !== "function" || C === Window || C === Object) {
+        C = Array;
+        }
+        var mapping = typeof mapFn === "function";
+        var iterFn = arrayLike[Symbol.iterator];
+        if (typeof iterFn === "function") {
+        var result = [];
+        var i = 0;
+        var iterator = iterFn.call(arrayLike);
+        var step;
+        while (!(step = iterator.next()).done) {
+            result[i] = mapping
+            ? mapFn.call(thisArg, step.value, i)
+            : step.value;
+            i++;
+        }
+        result.length = i;
+        return result;
+        }
+        var items = Object(arrayLike);
+        var len = Math.min(
+        Math.max(Number(items.length) || 0, 0),
+        Number.MAX_SAFE_INTEGER
+        );
+        var result = new C(len);
+        for (var k = 0; k < len; k++) {
+        result[k] = mapping ? mapFn.call(thisArg, items[k], k) : items[k];
+        }
+        result.length = len;
+        return result;
+    }
+    Array.from = function (arrayLike, mapFn, thisArg) {
+        if (
+        arrayLike != null $[AMP]$[AMP]
+        typeof arrayLike[Symbol.iterator] === "function"
+        ) {
+        try {
+            return specArrayFrom.call(this, arrayLike, mapFn, thisArg);
+        } catch (e) {
+            console.error("Array.from failed with error:", e);
+            return originalArrayFrom.call(this, arrayLike, mapFn, thisArg);
+        }
+        }
+        return originalArrayFrom.call(this, arrayLike, mapFn, thisArg);
+    };
+    })();
+    if (window.Element $[AMP]$[AMP] Element.Methods) {
+    Element.Methods.remove = function (element) {
+        element = $(element);
+        if (element.parentNode) {
+        element.parentNode.removeChild(element);
+        }
+        return element;
+    };
+    Element.addMethods();
+    }</script>
+    <!-- @sdk:now-ux-globals -->
+    <script src="/uxasset/externals/x_2212898_health_0/main.jsdbx?uxpcb=$[UxFrameworkScriptables.getFlushTimestamp()]" type="module"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>]]></html>
+        <name>portal</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 08:03:55</sys_created_on>
+        <sys_id>1492296734224c36998e873c5b4c747c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>portal</sys_name>
+        <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+        <sys_update_name>sys_ui_page_1492296734224c36998e873c5b4c747c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 08:03:55</sys_updated_on>
+    </sys_ui_page>
+    <sn_glider_source_artifact_m2m action="INSERT_OR_UPDATE">
+        <application_file display_value="portal">1492296734224c36998e873c5b4c747c</application_file>
+        <source_artifact display_value="x_2212898_health_0_portal.do - BYOUI Files">8430b6655f32477f9d2d52bd72c64ace</source_artifact>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 08:03:55</sys_created_on>
+        <sys_id>a9c654b2c30d4d468956f6648786e9bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 08:03:55</sys_updated_on>
+    </sn_glider_source_artifact_m2m>
+    <sn_glider_source_artifact action="INSERT_OR_UPDATE">
+        <name>x_2212898_health_0_portal.do - BYOUI Files</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 08:03:55</sys_created_on>
+        <sys_id>8430b6655f32477f9d2d52bd72c64ace</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 08:03:55</sys_updated_on>
+    </sn_glider_source_artifact>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>933336</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/zip</content_type>
+        <file_name>x_2212898_health_0_portal.do - BYOUI Files.zip</file_name>
+        <hash>7092c4c2cede67746a4383dfa1d16ba421fcf26d95179859297de9d5847aa784</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>14154</size_bytes>
+        <size_compressed>6984</size_compressed>
+        <state/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 08:03:55</sys_created_on>
+        <sys_id>535012a66d2da98fea173420e1c3250d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 08:03:55</sys_updated_on>
+        <table_name>sn_glider_source_artifact</table_name>
+        <table_sys_id>8430b6655f32477f9d2d52bd72c64ace</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length/>
+        <position>0</position>
+        <sys_attachment display_value="x_2212898_health_0_portal.do - BYOUI Files.zip" sys_id="535012a66d2da98fea173420e1c3250d">535012a66d2da98fea173420e1c3250d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 08:03:55</sys_created_on>
+        <sys_id>2fd9269ddbe54578532e2a81c685feee</sys_id>
+    </sys_attachment_doc>
+</record_update>

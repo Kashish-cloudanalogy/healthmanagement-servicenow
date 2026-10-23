@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="d762568fc2c94c1882630f32f37a7c84" label="Ward" name="x_2212898_health_0_ward" type="collection">
+        <element display="true" label="Ward Name" mandatory="true" name="ward_name" type="string"/>
+        <element label="Location" mandatory="true" name="location" type="string"/>
+        <element label="Occupancy" mandatory="true" name="occupancy" type="integer"/>
+        <element label="Capacity" mandatory="true" name="capacity" type="integer"/>
+        <element default="javascript:getNextObjNumberPadded();" label="Ward ID" name="number" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+    </element>
+</database>

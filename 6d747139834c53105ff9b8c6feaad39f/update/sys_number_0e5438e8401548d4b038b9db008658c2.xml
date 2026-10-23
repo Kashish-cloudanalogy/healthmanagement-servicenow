@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_2212898_health_0_billing">x_2212898_health_0_billing</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>BLG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-21 04:28:45</sys_created_on>
+        <sys_id>0e5438e8401548d4b038b9db008658c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BLG</sys_name>
+        <sys_package display_value="Healthcare Management" source="x_2212898_health_0">6d747139834c53105ff9b8c6feaad39f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management">6d747139834c53105ff9b8c6feaad39f</sys_scope>
+        <sys_update_name>sys_number_0e5438e8401548d4b038b9db008658c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-21 04:28:45</sys_updated_on>
+    </sys_number>
+</record_update>

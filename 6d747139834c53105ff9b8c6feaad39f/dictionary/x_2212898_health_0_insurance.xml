@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="19439aacdd8e4abeafe13448146c1119" extends="task" label="Insurance" name="x_2212898_health_0_insurance" type="collection">
+        <element label="Coverage Details" mandatory="true" name="coverage_details" type="string"/>
+        <element label="Provider" mandatory="true" name="provider" type="string"/>
+        <element label="Policy Number" mandatory="true" name="policy_number" type="string"/>
+        <element label="Patient" mandatory="true" name="patient_id" reference="x_2212898_health_0_patient" type="reference"/>
+    </element>
+</database>

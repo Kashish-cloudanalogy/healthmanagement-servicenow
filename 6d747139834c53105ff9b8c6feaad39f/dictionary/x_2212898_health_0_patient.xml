@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="04513b8889f34a1ca7fd033cc0dde0eb" label="Patient" name="x_2212898_health_0_patient" type="collection">
+        <element label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Discharged" sequence="4" value="discharged"/>
+                <element inactive_on_update="false" label="New" sequence="1" value="new"/>
+                <element inactive_on_update="false" label="Under Treatment" sequence="3" value="under_treatment"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+            </choice>
+        </element>
+        <element label="Gender" mandatory="true" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+                <element inactive_on_update="false" label="Male" sequence="1" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="2" value="female"/>
+            </choice>
+        </element>
+        <element label="Work Notes" name="work_notes" type="journal_input"/>
+        <element label="Date of Birth" mandatory="true" name="date_of_birth" type="glide_date"/>
+        <element label="Address" mandatory="true" max_length="1000" name="address" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" label="Patient ID" name="number" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="Contact Number" mandatory="true" name="contact_number" type="ph_number"/>
+        <element label="First Name" mandatory="true" name="first_name" type="string"/>
+        <element label="Email" mandatory="true" name="email" type="email"/>
+        <element label="Emergency Contact" mandatory="true" name="emergency_contact" type="ph_number"/>
+        <element label="Last Name" mandatory="true" name="last_name" type="string"/>
+    </element>
+</database>

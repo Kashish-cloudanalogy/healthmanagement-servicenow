@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="3660885297fd4a6eae82a18bde69c72a" extends="task" label="Lab Test" name="x_2212898_health_0_lab_test" type="collection">
+        <element label="Test Type" mandatory="true" name="test_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blood Test" sequence="1" value="blood_test"/>
+                <element inactive_on_update="false" label="Urine Test" sequence="2" value="urine_test"/>
+                <element inactive_on_update="false" label="X-Ray" sequence="3" value="xray"/>
+                <element inactive_on_update="false" label="MRI" sequence="4" value="mri"/>
+            </choice>
+        </element>
+        <element label="Results" max_length="1000" name="results" type="string"/>
+        <element label="Test Status" mandatory="true" name="test_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Scheduled" sequence="1" value="scheduled"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="3" value="cancelled"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+            </choice>
+        </element>
+        <element label="Scheduled Date" mandatory="true" name="scheduled_date" type="glide_date_time"/>
+        <element label="Patient" mandatory="true" name="patient_id" reference="x_2212898_health_0_patient" type="reference"/>
+    </element>
+</database>
